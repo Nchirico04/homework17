@@ -1,0 +1,40 @@
+# Title (replace with your title)
+
+What is a regex (or why I thought it was a good idea to enroll in this bootcamp)
+
+## Summary
+
+Short for regular expression, a regex is a string of text that lets you create patterns that help match, locate, and manage text. Example: const re = new RegExp('ab+c');
+
+## Table of Contents
+
+- [Anchors](#anchors)
+- [Quantifiers](#quantifiers)
+- [Grouping Constructs](#grouping-constructs)
+- [Bracket Expressions](#bracket-expressions)
+- [Character Classes](#character-classes)
+- [The OR Operator](#the-or-operator)
+- [Flags](#flags)
+- [Character Escapes](#character-escapes)
+
+## Regex Components
+\ $ ^ [] | ()
+### Anchors
+belonging to the family of regex tokens that don't match any characters, but that assert something about the string or the matching process
+### Quantifiers
+indicate numbers of characters or expressions to match
+### Grouping Constructs
+Capturing groups create a sub-expression by placing an expression inside matching open and close parentheses
+### Bracket Expressions
+Bracket expressions are a list of characters and/or character classes enclosed in brackets []
+### Character Classes
+ a character class is a set of characters enclosed within square brackets
+### The OR Operator
+an operator is a special symbol used to perform operations on operands (values and variables)
+### Flags
+A regular expression consists of a pattern and optional flags: g , i , m , u , s , y
+### Character Escapes
+The \ is known as the escape code, which restore the original literal meaning of the following character
+## Author
+
+¯\_(ツ)_/¯.
